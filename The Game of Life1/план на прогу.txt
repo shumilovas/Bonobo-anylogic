@@ -1,0 +1,24 @@
+1. выяснить архитектуру программы (ап)
+2. записать ап
+
+	Main
+		agentSice	
+		canvasSice
+                setGridCellColor
+
+		cells[..]
+	Cell
+		alive
+		nAliveAround
+		neighbors
+		toogleState()
+		Sourse
+		bonobos[..]->alive
+	Bonobo	
+		AgeOfDeath
+		Age	
+		EatSourse	
+		
+
+
+3. заплан-ть изменения в ап
